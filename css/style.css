@@ -245,10 +245,10 @@ h1 {
      margin: 0 auto;
 }
 table.tstriped tr:nth-child(odd){
-    background-color: aquamarine;  
+    background-color: purple;  
 }
 table.tstriped tr:nth-child(even){
-    background-color: rgb(207, 220, 248);  
+    background-color: peru;
 }
 table.tborder, table.tborder td {
     border: solid 1px gray;
